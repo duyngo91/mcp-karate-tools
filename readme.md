@@ -20,3 +20,7 @@ Hãy dùng mcp tool thức hiện các bước sau :
 *** Lưu ý ***
 Hãy tự tìm locator là duy nhất trên trang web nếu ko được cung cấp
 Hãy trả lại code sau khi chạy xong vào file code.feature. Dựa theo cú pháp ở tài liệu này https://karatelabs.github.io/karate/examples/ui-test/
+
+4. Demo
+
+   [![Watch the video](https://cdn.pixabay.com/photo/2021/06/25/04/20/youtube-6362801_1280.png)](https://youtu.be/AM2dtiW1kzc?si=IQw7EhAsYKT-lAok)
